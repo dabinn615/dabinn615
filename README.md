@@ -1,9 +1,4 @@
 ## Hi there 👋
-<p align="center">
-  <a href="https://solved.ac/dabinn615">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dabinn615" alt="Solved.ac Profile">
-  </a>
-</p>
 <div align = "center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dabinn615&utm_content=line">
     <img
@@ -13,6 +8,14 @@
     />
   </a>
 </div>
+
+## Baekjoon
+<p align="center">
+  <a href="https://solved.ac/dabinn615">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dabinn615" alt="Solved.ac Profile">
+  </a>
+</p>
+
 <!--
 **dabinn615/dabinn615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

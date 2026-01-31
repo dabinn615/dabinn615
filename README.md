@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://solved.ac/dabinn615">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=본인의_백준_아이디" alt="Solved.ac Profile">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dabinn615" alt="Solved.ac Profile">
   </a>
 </p>
 Here are some ideas to get you started:
